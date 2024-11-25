@@ -12,7 +12,7 @@
  multiplataforma que possibilite a interação entre os tutores e tutorados através de videochamadas e conversas por mensagens, com a opção de upload de conteúdos úteis, como
  resumos, artigos, vídeos etc.</p>  
  
- Para mais detalhes checar o [texto completo do projeto](https://github.com/Rairocha/projeto_integrador_implantacao_bd/blob/main/projeto_intergrador.pdf)
+ Para mais detalhes checar o [texto completo do projeto](https://github.com/Rairocha/projeto_integrador_implantacao_bd/blob/main/projeto_intergrador.pdf), as mudanças feitas na última entrega foram destacadas [aqui](https://docs.google.com/document/d/1l472SQRQzY8eHgaqoN6Zj9jf_hzk_tiK/edit)
 <br>
 
 ## Instruções de carregamento do BD
